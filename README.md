@@ -5,7 +5,7 @@
 > by [Zongheng Tang](#), [Yi Liu](#), [Yifan Sun](#), [Yulu Gao](#), [Jinyu Chen](#), [Runsheng Xu](#), and [Si Liu](#).
 
 > 📄 Paper: [arXiv:2508.00359](https://arxiv.org/abs/2508.00359)  
-> 🎥 Demo Video: [YouTube](https://www.youtube.com/watch?v=DHre-cZSjAU)
+> 🎥 Introduction Video: [YouTube](https://www.youtube.com/watch?v=DHre-cZSjAU)
 
 ---
 
