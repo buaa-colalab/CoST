@@ -179,4 +179,3 @@ This project is licensed under the Apache-2.0 License. See [LICENSE](./LICENSE) 
 ## 🙏 Acknowledgement
 
 This project is built upon [V2V4Real](https://github.com/ucla-mobility/V2V4Real). We thank the authors and contributors of the open-source collaborative perception community.
-

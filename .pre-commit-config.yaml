@@ -1,0 +1,16 @@
+﻿repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.4.0
+    hooks:
+      - id: trailing-whitespace
+        exclude: ^(data/|logs/|output/|vis.*|eval_res/|build/)
+      - id: end-of-file-fixer
+        exclude: ^(data/|logs/|output/|vis.*|eval_res/|build/)
+      - id: check-yaml
+      - id: check-json
+      - id: check-merge-conflict
+      - id: check-added-large-files
+        args: ["--maxkb=10240"]
+      - id: mixed-line-ending
+        args: ["--fix=lf"]
+      - id: check-ast
